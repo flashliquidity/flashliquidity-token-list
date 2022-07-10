@@ -7,8 +7,9 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "ipfs://Qmf3U7rbiGsdsvLLd61jSY8Zf1a47D59bdeKJdK9NCQ45L",
+  "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/main/logo.png",
   "keywords": [
+    "flashliquidity",
     "uniswap",
     "default"
   ],
