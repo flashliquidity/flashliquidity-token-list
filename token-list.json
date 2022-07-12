@@ -215,14 +215,6 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
     },
     {
-      "name": "Wrapped LUNA Token",
-      "address": "0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57",
-      "symbol": "LUNA",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/8284/small/luna1557227471663.png?1567147072"
-    },
-    {
       "name": "MAI",
       "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
       "symbol": "MAI",
@@ -382,14 +374,6 @@
       "decimals": 6,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "name": "Wrapped UST Token",
-      "address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
-      "symbol": "UST",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/12681/small/UST.png?1601612407"
     },
     {
       "name": "VOXEL Token",
