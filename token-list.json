@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/logo.png",
@@ -367,17 +367,17 @@
       "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/qi.png"
     },
     {
-      "name": "QuickSwap(NEW)",
+      "name": "QuickSwap NEW",
       "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
-      "symbol": "QUICK(NEW)",
+      "symbol": "QUICK NEW",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://i.ibb.co/HGWTLM7/Quick-Icon-V2.png"
     },
     {
-      "name": "QuickSwap(OLD)",
+      "name": "QuickSwap OLD",
       "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
-      "symbol": "QUICK(OLD)",
+      "symbol": "QUICK OLD",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
@@ -486,6 +486,14 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
+    },
+    {
+      "name": "USD+",
+      "address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+      "symbol": "USD+",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1653519267"
     },
     {
       "name": "USD Coin",
