@@ -1,9 +1,9 @@
 {
   "name": "FL Token List",
-  "timestamp": "2021-11-10T12:42:13.685Z",
+  "timestamp": "2022-11-19T12:42:13.685Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "tags": {},
@@ -444,7 +444,7 @@
       "symbol": "fl-MATIC/ETH",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/MATIC-ETH.png"
     },
     {
       "name": "fl-ETH/DAI",
@@ -452,7 +452,7 @@
       "symbol": "fl-ETH/DAI",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/ETH-DAI.png"
     },
         {
       "name": "fl-MATIC/DAI",
@@ -460,7 +460,7 @@
       "symbol": "fl-MATIC/DAI",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/MATIC-DAI.png"
     },
     {
       "name": "fl-ETH/LINK",
@@ -468,7 +468,7 @@
       "symbol": "fl-ETH/LINK",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/ETH-LINK.png"
     },
     {
       "name": "fl-ETH/AAVE",
@@ -476,7 +476,7 @@
       "symbol": "fl-ETH/AAVE",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/ETH-AAVE.png"
     },
     {
       "name": "fl-MATIC/SAND",
@@ -484,7 +484,7 @@
       "symbol": "fl-MATIC/SAND",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/MATIC-SAND.png"
     },
     {
       "name": "fl-MATIC/SOL",
@@ -492,7 +492,7 @@
       "symbol": "fl-MATIC/SOL",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/MATIC-SOL.png"
     },
     {
       "name": "fl-ETH/MANA",
@@ -500,7 +500,7 @@
       "symbol": "fl-ETH/MANA",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/ETH-MANA.png"
     },
     {
       "name": "fl-MATIC/MAI",
@@ -508,7 +508,7 @@
       "symbol": "fl-MATIC/MAI",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/MATIC-MAI.png"
     },
     {
       "name": "fl-ETH/GRT",
@@ -516,7 +516,7 @@
       "symbol": "fl-ETH/GRT",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa.png"
+      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/ETH-GRT.png"
     },
     {
       "name": "Sushiswap",
