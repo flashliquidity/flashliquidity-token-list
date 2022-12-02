@@ -2,8 +2,8 @@
   "name": "FL Token List",
   "timestamp": "2022-11-30T12:42:13.685Z",
   "version": {
-    "major": 1,
-    "minor": 3,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   },
   "tags": {},
@@ -388,7 +388,7 @@
       "symbol": "UNI",
       "decimals": 18,
       "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon1.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
     },
     {
       "name": "USD Coin",
