@@ -31,28 +31,12 @@
       "logoURI": "https://assets.coingecko.com/coins/images/19479/small/agEUR.png?1635283566"
     },
     {
-      "name": "Anyswap",
-      "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
-      "symbol": "ANY",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/anyswap/Brand-assets/master/logo/c-128-white.svg"
-    },
-    {
       "name": "Avalanche Token",
       "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
       "symbol": "AVAX",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/12559/small/coin-round-red.png?1604021818"
-    },
-    {
-      "name": "Banana",
-      "address": "0xbC91347e80886453F3f8bBd6d7aC07C122D87735",
-      "symbol": "BANANA",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/17521/small/banana-token-cg.png?1646285527"
     },
     {
       "name": "beefy.finance",
@@ -95,28 +79,12 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
-      "name": "Dogelon",
-      "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
-      "symbol": "ELON",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/14962/small/6GxcPRo3_400x400.jpg?1619157413"
-    },
-    {
       "name": "Ether",
       "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-    {
-      "name": "FlashLiquidity Token",
-      "address": "0x440c36CB5558D1807d6B2C04f9f36970387aEB68",
-      "symbol": "FLIQ",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/fliq.png"
     },
     {
       "name": "Frax",
@@ -383,14 +351,6 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/128x128/3890.png"
     },
     {
-      "name": "Wrapped ONE",
-      "address": "0x80c0CBDB8d0B190238795d376f0bD57fd40525F2",
-      "symbol": "WONE",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/4344/small/Y88JAze.png?1565065793"
-    },
-    {
       "name": "yearn.finance",
       "address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
       "symbol": "YFI",
@@ -400,7 +360,7 @@
     },
     {
       "name": "FlashLiquidity Token",
-      "address": "0x80e61691ED5F68c33d711Aad4Fe4081261e5B9Cd",
+      "address": "0x9e05E935C4d2e34980D4913B0fC01fC3dd60b7D5",
       "symbol": "FLIQ",
       "decimals": 18,
       "chainId": 80001,
@@ -608,7 +568,7 @@
     },
     {
       "name": "FlashLiquidity Token",
-      "address": "0x80e61691ED5F68c33d711Aad4Fe4081261e5B9Cd",
+      "address": "0x9e05E935C4d2e34980D4913B0fC01fC3dd60b7D5",
       "symbol": "FLIQ",
       "decimals": 18,
       "chainId": 43113,
