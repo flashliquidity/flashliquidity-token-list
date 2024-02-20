@@ -1,10 +1,10 @@
 {
   "name": "FL Token List",
-  "timestamp": "2023-10-14T12:42:13.685Z",
+  "timestamp": "2024-02-19T12:42:13.685Z",
   "version": {
     "major": 5,
     "minor": 2,
-    "patch": 0
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/logo.png",
@@ -1028,7 +1028,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
       "name": "Bridged USDC",
-      "symbol": "USDC.e"
+      "symbol": "USDCe"
     },
     {
       "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
