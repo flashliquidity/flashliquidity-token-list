@@ -1,10 +1,10 @@
 {
   "name": "FL Token List",
-  "timestamp": "2024-02-23T12:42:13.685Z",
+  "timestamp": "2024-04-14T12:42:13.685Z",
   "version": {
-    "major": 6,
+    "major": 7,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/logo.png",
@@ -253,38 +253,6 @@
       "decimals": 18,
       "chainId": 137,
       "logoURI": "https://assets.coingecko.com/coins/images/4128/small/coinmarketcap-solana-200.png"
-    },
-    {
-      "name": "fl-MATIC/USDC",
-      "address": "0x03A3Ee62eAc79Ab0Ab8a2a7C8aF2CF92356F33a8",
-      "symbol": "fl-MATIC/USDC",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/MATIC-USDC.png"
-    },
-    {
-      "name": "fl-USDC/ETH",
-      "address": "0xd8FEce47db7711A05ea873e5D606a07f36EcDA27",
-      "symbol": "fl-USDC/ETH",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/USDC-ETH.png"
-    },
-    {
-      "name": "fl-ETH/LINK",
-      "address": "0x329338aBd017bA9247bCF052Cc0CF2ed9a506FDE",
-      "symbol": "fl-ETH/LINK",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/ETH-LINK.png"
-    },
-    {
-      "name": "fl-ETH/AAVE",
-      "address": "0x6a3f75DcFb02d786De8877D68429D1F07B3163fc",
-      "symbol": "fl-ETH/AAVE",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://raw.githubusercontent.com/flashliquidity/flashliquidity-token-list/master/stFLASHa/ETH-AAVE.png"
     },
     {
       "name": "Sushiswap",
@@ -730,7 +698,7 @@
       "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "chainId": 8453,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/base/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913.jpg",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "name": "USD Coin",
       "symbol": "USDC"
     },
@@ -1010,7 +978,7 @@
       "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
       "chainId": 42161,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "name": "USD Coin",
       "symbol": "USDC"
     },
@@ -1018,7 +986,7 @@
       "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
       "chainId": 42161,
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdc.jpg",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
       "name": "Bridged USDC",
       "symbol": "USDCe"
     },
